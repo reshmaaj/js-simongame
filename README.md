@@ -3,9 +3,9 @@
 A retro-style memory challenge game made using HTML, CSS, JavaScript, and jQuery.  
 Can your brain keep up with the ever-growing color pattern? Let’s find out! 🧠
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 [Play the Game](https://your-netlify-link-here.netlify.app/)
+👉 [Play the Game](https://js-simongame.netlify.app/)
 
 ---
 
