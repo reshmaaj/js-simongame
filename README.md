@@ -22,14 +22,14 @@ Can your brain keep up with the ever-growing color pattern? Let’s find out! �
 
 During this project, I’ve effectively learned and implemented:
 
-- ✅ jQuery for DOM manipulation and event handling.
-- ✅ Playing custom audio on events (`.mp3` sounds).
-- ✅ Dynamic class manipulation (`.addClass()` and `.removeClass()`).
-- ✅ Generating random patterns using JavaScript logic.
-- ✅ Building a game loop with user interaction.
-- ✅ Animations using jQuery's `.fadeIn()` / `.fadeOut()` and `.addClass()`.
-- ✅ Resetting game states when the user fails.
-- ✅ Clean, responsive HTML/CSS layout.
+- jQuery for DOM manipulation and event handling.
+- Playing custom audio on events (`.mp3` sounds).
+- Dynamic class manipulation (`.addClass()` and `.removeClass()`).
+- Generating random patterns using JavaScript logic.
+- Building a game loop with user interaction.
+- Animations using jQuery's `.fadeIn()` / `.fadeOut()` and `.addClass()`.
+- Resetting game states when the user fails.
+- Clean, responsive HTML/CSS layout.
 
 ---
 
@@ -46,6 +46,6 @@ During this project, I’ve effectively learned and implemented:
 ## Project Status
 
 Completed as part of a JS practice project from a Full-Stack Developer course.  
-Now available to the public — go ahead and jam those buttons 🎵
+Now available to the public - go ahead and jam those buttons 🎵
 
 
